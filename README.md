@@ -9,6 +9,8 @@
 
 - 📝 I regulary write articles on [https://www.schabrechtsk.be](https://www.schabrechtsk.be)
 
+- 📝 I regulary stream live on [https://www.twitch.tv/schabrechtsk](Twitch)
+
 - 💬 Ask me about **UX, Symfony or PHP in general**
 
 - 📫 How to reach me **schabrechtsk@gmail.com**
@@ -26,5 +28,6 @@
 <a href="https://instagram.com/schabrechtsk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="schabrechtsk" height="30" width="30" /></a>
 <a href="https://medium.com/@ schabrechtsk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ schabrechtsk" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/ucejxhrvvf3blrv6xantcpbq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucejxhrvvf3blrv6xantcpbq" height="30" width="30" /></a>
+<a href="https://www.twitch.tv/schabrechtsk" target="blank"><img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="Twitch" height="30" width="30" /></a>
 <a href="/https://www.schabrechtsk.be" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.schabrechtsk.be" height="30" width="30" /></a>
 </p>
